@@ -6,7 +6,7 @@
 
 Homepage: https://lmmlab.notion.site/
 
-E-Mail: sung@dgu.edu (Prof. Yunsick Sung)
+E-Mail: sung@dongguk.edu (Prof. Yunsick Sung)
 
 ---
 ![이미지 설명](./image/main.png)
